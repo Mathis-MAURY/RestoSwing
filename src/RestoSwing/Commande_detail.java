@@ -1,4 +1,4 @@
-package ja63c;
+package RestoSwing;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

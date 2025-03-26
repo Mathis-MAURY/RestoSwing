@@ -28,10 +28,10 @@ debug.test.modulepath=\
 dist.archive.excludes=
 # This directory is removed when the project is cleaned:
 dist.dir=dist
-dist.jar=${dist.dir}/ja63c.jar
+dist.jar=${dist.dir}/RestoSwing.jar
 dist.javadoc.dir=${dist.dir}/javadoc
 dist.jlink.dir=${dist.dir}/jlink
-dist.jlink.output=${dist.jlink.dir}/ja63c
+dist.jlink.output=${dist.jlink.dir}/RestoSwing
 excludes=
 file.reference.json-20231013.jar=lib\\json-20231013.jar
 includes=**
@@ -72,8 +72,8 @@ jlink.additionalmodules=
 # The jlink additional command line parameters
 jlink.additionalparam=
 jlink.launcher=true
-jlink.launcher.name=ja63c
-main.class=ja63c.Ja63c
+jlink.launcher.name=RestoSwing
+main.class=RestoSwing.Ja63c
 manifest.file=manifest.mf
 meta.inf.dir=${src.dir}/META-INF
 mkdist.disabled=false

@@ -2,7 +2,7 @@
  * RestoSwing
  * Classe contenant le "Main"
  */
-package ja63c;
+package RestoSwing;
 
 /**
  *
